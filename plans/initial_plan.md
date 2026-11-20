@@ -227,3 +227,6 @@ buffering. We do not know of an AMD core for the keyed hash.
 - P. Fernandez et al., "Three Bricks to Consolidate Watermarks for Large Language Models," WIFS 2023, arXiv:2308.00113.
 - J. Piet et al., "Mark My Words: Analyzing and Evaluating Language Model Watermarks," arXiv:2312.00273.
 - A. Appleby, MurmurHash3 (public domain), fmix32 and fmix64.
+
+
+# LLM credit: Claude Opus 5.5
